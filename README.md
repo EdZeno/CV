@@ -24,14 +24,18 @@ MSc Law with Merit
 Experience
 TESCO• London •December 2014 to Date
 PART TIME - CUSTOMER ASSISTANT
+
 OAKAM LIMITED• London•May 2015 to May 2016
 UNDERWRITER 
 Provided short-term loans to clients who were unable to borrow from the banks due to financial circumstances and analysed income and expenditure to establish the loan amount and term. 
+
 PRIVATE BANK•Ukraine• December 2011 to November 2014
 LEGAL EXPERT IN DEBT COLLECTION
 Executed timely efficient debt collection, reducing risk costs and optimising return from a portfolio of 192 accounts.
+
 Self-employed •Ukraine• November 2009 to December 2011
 Lawyer
+
 State executive service•Ukraine•November 2006 to October 2009
 EXECUTIVE OFFICER
 Represented the State in court, including collecting material compensations, alimony payments, fines and executing eviction orders.
