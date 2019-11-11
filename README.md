@@ -49,4 +49,8 @@ Represented the State in court in cases related to collecting material compensat
 orders.
 
 ### Hobbies
-I like to read but in order to keep things balanced I also like to workout.  I enjoy my weekly muay thai trainings, and a bit of extreme sporting activity every now and then.  I am a big admirer, but a poor practitioner of stoic philosophy.  I code in the following languages: Ruby, JS, React  I speak the following languages: Hungarian, Ukrainian, English, Russian. 
+I like to read but in order to keep things balanced I also like to workout.  
+I enjoy my weekly muay thai trainings, and a bit of extreme sporting activity every now and then.  
+I am a big admirer, but a poor practitioner of stoic philosophy.  
+I code in the following languages: Ruby, JS, React  
+I speak the following languages: Hungarian, Ukrainian, English, Russian. 
