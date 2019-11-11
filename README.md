@@ -6,11 +6,11 @@ time. I am as any other person much more than what I do or have done for living,
 are reading a CV after all I will describe my work experience below.     
 
 ### Skills
-*I am eager to learn*
+**I am eager to learn**
 As the education section of this CV shows I am committed to constant self-improvement and development, thus I have managed to graduate
 with two master degrees and finish an intense coding bootcamp. 
 
-*I am good with people.*
+**I am good with people.**
 While working in debt collection I have encountered and dealt with an immense number of emotionally highly charged situations and learned
 effective methods of conflict resolution, but most importantly I have learned how to be patient with people.
 
@@ -32,19 +32,19 @@ MSc Law with Merit
 PART TIME - *CUSTOMER ASSISTANT*
 
 **OAKAM LIMITED** (London, May 2015 - May 2016)
-*UNDERWRITER* 
+*UNDERWRITER*  
 Provided short-term loans to clients who were unable to borrow from the banks due to financial circumstances and analysed income and 
 expenditure to establish the loan amount and term. 
 
 **PRIVATE BANK** (Ukraine, December 2011 - November 2014)
-*LEGAL EXPERT IN DEBT COLLECTION*
+*LEGAL EXPERT IN DEBT COLLECTION*  
 Executed timely efficient legal debt collection, reducing risk costs and optimising return from a portfolio of 192 accounts.
 
 **Self-employed** (Ukraine, November 2009 - December 2011)
 *Lawyer*
 
 **State executive service** (Ukraine, November 2006 - October 2009)
-*EXECUTIVE OFFICER(civil service)*
+*EXECUTIVE OFFICER(civil service)*  
 Represented the State in court in cases related to collecting material compensations, alimony payments, fines and executing eviction
 orders.
 
