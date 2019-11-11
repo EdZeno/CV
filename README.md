@@ -15,35 +15,35 @@ While working in debt collection I have encountered and dealt with an immense nu
 effective methods of conflict resolution, but most importantly I have learned how to be patient with people.
 
 ### Education
-Makers Academy (July  2019 to November 2019)
+**Makers Academy** (July 2019 - November 2019)
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript, React
 - RSpec, Jasmine, Capybara, Cypress, Jest/Enzyme
 
-University of Leicester (November 2014 – July 2017) 
+**University of Leicester** (November 2014 – July 2017) 
 MSc Finance with Merit
 
-UZHGOROD NATIONAL UNIVERSITY | Ukraine | (2001-2006)
+**UZHGOROD NATIONAL UNIVERSITY** (Ukraine, September 2001 - July 2006)
 MSc Law with Merit
 
 ### Experience
-TESCO• London •December 2014 to Date
+**TESCO** (London, December 2014 - July 2019)
 PART TIME - *CUSTOMER ASSISTANT*
 
-OAKAM LIMITED• London•May 2015 to May 2016
+**OAKAM LIMITED** (London, May 2015 - May 2016)
 *UNDERWRITER* 
 Provided short-term loans to clients who were unable to borrow from the banks due to financial circumstances and analysed income and 
 expenditure to establish the loan amount and term. 
 
-PRIVATE BANK•Ukraine• December 2011 to November 2014
+**PRIVATE BANK** (Ukraine, December 2011 - November 2014)
 *LEGAL EXPERT IN DEBT COLLECTION*
 Executed timely efficient legal debt collection, reducing risk costs and optimising return from a portfolio of 192 accounts.
 
-Self-employed •Ukraine• November 2009 to December 2011
+**Self-employed** (Ukraine, November 2009 - December 2011)
 *Lawyer*
 
-State executive service•Ukraine•November 2006 to October 2009
+**State executive service** (Ukraine, November 2006 - October 2009)
 *EXECUTIVE OFFICER(civil service)*
 Represented the State in court in cases related to collecting material compensations, alimony payments, fines and executing eviction
 orders.
