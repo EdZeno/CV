@@ -29,13 +29,13 @@ MSc Law with Merit
 
 ### Experience
 **TESCO** (London, December 2014 - July 2019)
-PART TIME - *CUSTOMER ASSISTANT*
+Part Time - *CUSTOMER ASSISTANT*
 
 **Oakam Limited** (London, May 2015 - May 2016)
 *UNDERWRITER*  
 Provided short-term loans to clients who were unable to borrow from the banks due to financial circumstances and analysed their income and expenditure to establish the loan amount and term. 
 
-**Private Bank** (Ukraine, December 2011 - November 2014)
+**Privat Bank** (Ukraine, December 2011 - November 2014)
 *LEGAL EXPERT IN DEBT COLLECTION*  
 Executed timely efficient legal debt collection, reducing risk costs and optimising return from a portfolio of 192 accounts.
 
