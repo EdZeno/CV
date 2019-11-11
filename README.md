@@ -1,14 +1,12 @@
 ## Eduard Kulcsickij-Gut
-<pre>
 I consider conciseness to be a virtue and I am often guilty of oversimplifying complex issues thus I will keep this CV as short as
 possible.  My diverse experience led me to coding after I have realized that it has the awesome capability to create immense real value and
 tangible benefits without a significant investment of commodities. Code is cheap it can be written and rewritten without any cost other than
 time. I am as any other person much more than what I do or have done for living, but to demonstrate a few of my skills and because you
 are reading a CV after all I will describe my work experience below.
-</pre>
 
 ### Skills
-**I am eager to learn**
+**I am eager to learn.**
 As the education section of this CV proves I am committed to constant self-improvement, development and continious learning. I have managed to graduate
 with two master degrees and finish an intense coding bootcamp. 
 
@@ -23,10 +21,10 @@ effective methods of conflict resolution, but most importantly I have learned ho
 - Ruby, Rails, JavaScript, React
 - RSpec, Jasmine, Capybara, Cypress, Jest/Enzyme
 
-**University of Leicester** (November 2014 – July 2017) 
+**University of Leicester** (November 2014 – July 2017)   
 MSc Finance with Merit
 
-**Uzhhorod National University** (Ukraine, September 2001 - July 2006)
+**Uzhhorod National University** (Ukraine, September 2001 - July 2006)  
 MSc Law with Merit
 
 ### Experience
