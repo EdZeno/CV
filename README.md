@@ -1,5 +1,4 @@
-<pre>
-Eduard Kulcsickij-Gut<h2>tag
+## Eduard Kulcsickij-Gut <h2> tag
 I consider conciseness to be a virtue and I am often guilty of oversimplifying complex issues so I will try to keep this CV as short as
 possible.  My diverse experience led me to tech after I have realized that it has the awesome capability to create immense real value and
 tangible benefits from a minimal investment of commodities. Code is cheap it can be written and rewritten without any cost other than
@@ -55,4 +54,3 @@ I enjoy my weekly muay thai trainings, and a bit of extreme sporting activity ev
 I am a big admirer, but a poor practitioner of stoic philosophy.  
 I code in the following languages: Ruby, JS, React
 I speak the following languages: Hungarian, Ukrainian, English, Russian. 
-</pre>
