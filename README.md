@@ -5,7 +5,7 @@ tangible benefits from a minimal investment of commodities. Code is cheap it can
 time. I am as any other person is much more than what I do or have done for living, but to demonstrate a few of my skills and because you
 are reading a CV after all I will describe my work experience below.     
 
-# Skills
+### Skills
 I am eager to learn
 As the education section of this CV shows I am committed to constant self-improvement and development, thus I have managed to graduate
 with two master degrees and finish an intense coding bootcamp. 
@@ -14,7 +14,7 @@ I think I am good with people.
 While working in debt collection I have encountered and dealt with an immense number of emotionally highly charged situations and learned
 effective methods of conflict resolution, but most importantly I have learned how to be patient with people.
 
-# Education
+### Education
 Makers Academy (July  2019 to November 2019)
 - OOP, TDD, MVC, DDD
 - Agile/XP
@@ -27,7 +27,7 @@ MSc Finance with Merit
 UZHGOROD NATIONAL UNIVERSITY | Ukraine | (2001-2006)
 MSc Law with Merit
 
-# Experience
+### Experience
 TESCO• London •December 2014 to Date
 PART TIME - CUSTOMER ASSISTANT
 
@@ -48,7 +48,7 @@ EXECUTIVE OFFICER(civil service)
 Represented the State in court in cases related to collecting material compensations, alimony payments, fines and executing eviction
 orders.
 
-# Hobbies
+### Hobbies
 I like to read but in order to keep things balanced I also like to workout.
 I enjoy my weekly muay thai trainings, and a bit of extreme sporting activity every now and then. 
 I am a big admirer, but a poor practitioner of stoic philosophy.  
