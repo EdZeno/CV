@@ -22,10 +22,10 @@ effective methods of conflict resolution, but most importantly I have learned ho
 - RSpec, Jasmine, Capybara, Cypress, Jest/Enzyme
 
 **University of Leicester** (November 2014 – July 2017)   
-MSc Finance with Merit
+MSc in Finance with Merit
 
 **Uzhhorod National University** (Ukraine, September 2001 - July 2006)  
-MSc Law with Merit
+MSc in Law with Merit
 
 ### Experience
 **TESCO** (London, December 2014 - July 2019)
