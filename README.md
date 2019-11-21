@@ -6,7 +6,7 @@ are reading a CV after all I will describe my work experience below.
 
 ### Skills
 **I am eager to learn.**
-As the education section of this CV proves I am committed to constant self-improvement, development and continious learning. I have managed to graduate
+As the education section of this CV proves I am committed to constant self-improvement, development and continuous learning. I have managed to graduate
 with two master degrees and finish an intense coding bootcamp. 
 
 **I am good with people.**
