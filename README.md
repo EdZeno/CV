@@ -1,5 +1,5 @@
 ## Eduard Kulcsickij-Gut
-I consider conciseness to be a virtue and I am an ardent follower of Occam's razor "The simplest solution is most likey the right one."  My diverse experience led me to coding after I have realized that it has the awesome capability to create immense real value and
+I consider conciseness to be a virtue and I am an ardent follower of Occam's razor "The simplest solution is most likely the right one."  My diverse experience led me to coding after I have realized that it has the awesome capability to create immense real value and
 tangible benefits without a significant investment of commodities. Code is cheap it can be written and rewritten without any cost other than
 time. I am as any other person much more than what I do or have done for living, but to demonstrate a few of my skills and because you
 are reading a CV after all I will describe my work experience below.
