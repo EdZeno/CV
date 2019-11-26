@@ -17,7 +17,7 @@ effective methods of conflict resolution, but most importantly I have learned ho
 **Makers Academy** (July 2019 - November 2019)
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript, React
+- Ruby, Rails, JavaScript, React, HTML, CSS
 - RSpec, Jasmine, Capybara, Cypress, Jest/Enzyme
 
 **University of Leicester** (November 2014 – July 2017)   
