@@ -13,19 +13,6 @@ with two master degrees and finish an intense coding bootcamp.
 While working in debt collection I have encountered and dealt with an immense number of emotionally highly charged situations and learned
 effective methods of conflict resolution, but most importantly I have learned how to be patient with people.
 
-### Education
-**Makers Academy** (July 2019 - November 2019)
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript, React, HTML, CSS
-- RSpec, Jasmine, Capybara, Cypress, Jest/Enzyme
-
-**University of Leicester** (November 2014 – July 2017)   
-MSc in Finance with Merit
-
-**Uzhhorod National University** (Ukraine, September 2001 - July 2006)  
-MSc in Law with Merit
-
 ### Experience
 **TESCO** (London, December 2014 - July 2019)
 Part Time - *CUSTOMER ASSISTANT*
@@ -46,10 +33,21 @@ Executed timely efficient legal debt collection, reducing risk costs and optimis
 Represented the State in court in cases related to collecting material compensations, alimony payments, fines and executing eviction
 orders.
 
+### Education
+**Makers Academy** (July 2019 - November 2019)
+- OOP, TDD, MVC, DDD
+- Agile/XP
+- Ruby, Rails, JavaScript, React, HTML, CSS, Python, Flask, Java, Maven.
+- RSpec, Jasmine, Capybara, Cypress, Jest/Enzyme, Pytest, Junit.
+
+**University of Leicester** (November 2014 – July 2017)   
+MSc in Finance with Merit
+
+**Uzhhorod National University** (Ukraine, September 2001 - July 2006)  
+MSc in Law with Merit
+
 ### Hobbies
-I like to read but in order to keep things balanced I also like to exercise.  
+I like to read but in order to keep things balanced I also like to workout.  
 I enjoy my weekly muay thai trainings, and a bit of extreme sporting activity every now and then.  
 I am a big admirer, but a poor practitioner of stoic philosophy.  
-I code in the following languages: Ruby, JS, React.
-I am using the following testing frameworks: RSpec, Jasmine, Jest, Cypress.
 I speak the following languages: Hungarian, Ukrainian, English, Russian. 
